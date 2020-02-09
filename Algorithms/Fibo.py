@@ -1,3 +1,9 @@
+"""
+
+Fibonacchi formula.
+
+"""
+
 number_total = int(input('\nInput the maximum number\n'))
 
 a, b, = 0, 1
