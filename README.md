@@ -1,2 +1,2 @@
-# Python-Examples
-Just Python Examples
+# Python Examples
+Just Python 3.7+ Examples
